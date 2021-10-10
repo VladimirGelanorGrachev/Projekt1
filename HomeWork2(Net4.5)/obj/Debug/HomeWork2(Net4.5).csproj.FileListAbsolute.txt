@@ -1,0 +1,7 @@
+C:\Users\Gelanor\source\repos\HomeWork2(Net4.5)\HomeWork2(Net4.5)\bin\Debug\HomeWork2(Net4.5).exe.config
+C:\Users\Gelanor\source\repos\HomeWork2(Net4.5)\HomeWork2(Net4.5)\bin\Debug\HomeWork2(Net4.5).exe
+C:\Users\Gelanor\source\repos\HomeWork2(Net4.5)\HomeWork2(Net4.5)\bin\Debug\HomeWork2(Net4.5).pdb
+C:\Users\Gelanor\source\repos\HomeWork2(Net4.5)\HomeWork2(Net4.5)\obj\Debug\HomeWork2(Net4.5).csproj.AssemblyReference.cache
+C:\Users\Gelanor\source\repos\HomeWork2(Net4.5)\HomeWork2(Net4.5)\obj\Debug\HomeWork2(Net4.5).csproj.CoreCompileInputs.cache
+C:\Users\Gelanor\source\repos\HomeWork2(Net4.5)\HomeWork2(Net4.5)\obj\Debug\HomeWork2(Net4.5).exe
+C:\Users\Gelanor\source\repos\HomeWork2(Net4.5)\HomeWork2(Net4.5)\obj\Debug\HomeWork2(Net4.5).pdb
